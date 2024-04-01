@@ -2,6 +2,9 @@
 
   <h2 align="center">🍽️CraveLuxe - Restaurant Website🤤</h2>
 
+  ![CoverPage](https://github.com/vaishnavikarale/CraveLuxe_Restuarant_Website/assets/122018134/eecc6bd8-bdc8-4704-b671-0af22b551f81)
+
+
   CraveLuxe is a fully responsive restaurant website. <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
 </div>
