@@ -1,8 +1,8 @@
 
 
-  <h2 align="center">CraveLuxe - Restaurant Website</h2>
+  <h2 align="center">🍽️CraveLuxe - Restaurant Website🤤</h2>
 
-  CraveLuxe is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  CraveLuxe is a fully responsive restaurant website. <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
 </div>
 
